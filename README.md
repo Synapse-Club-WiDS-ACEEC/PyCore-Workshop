@@ -35,14 +35,6 @@ The **PyCore Workshop** is a fast-paced, 10-hour hands-on bootcamp designed for 
 
 ---
 
-<div align="center">
-
-  <!-- Header Banner -->
-  <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/Synapse_WIDS_animated_banner_stars.gif?raw=true" width="100%" alt="Synapse Club | Official WiDS@ACEEC Chapter" />
-
-  <br/><br/>
-</div>
-
 ### 🛠️ Technical Stack & Environment
 
 <div align="center">
