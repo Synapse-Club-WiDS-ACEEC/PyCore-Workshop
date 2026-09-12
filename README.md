@@ -70,7 +70,7 @@ The **PyCore Workshop** is a fast-paced, 10-hour hands-on bootcamp designed for 
     </td>
     <td width="50%" valign="top">
       <h3>📅 DAY 2 (5 Hours)</h3>
-      <p><b>Focus: Applied Dataset Sprint & Hackathon Challenge</b></p>
+      <p><b>Focus: Applied Dataset Sprint & Hands-On-Experience </b></p>
       <p><i>Led by: Visiting External Faculty Expert</i></p>
       <hr/>
       <ul>
