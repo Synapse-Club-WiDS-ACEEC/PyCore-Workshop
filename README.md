@@ -124,6 +124,9 @@ Students work on pre-loaded practice datasets with intentional real-world qualit
   <sub>Organized with ⚡ by <b>Synapse Club — WiDS ACEEC Chapter</b></sub>
 </div>
 
+### 📁 Repository Structure & Workflow
+
+```text
 📁 PyCore-Workshop
 ├── 📂 Datasets/                 # Practice Datasets (IPL, Netflix, Spotify)
 ├── 📂 Day-1_Foundations/        # Python & Pandas Starter Notebooks
