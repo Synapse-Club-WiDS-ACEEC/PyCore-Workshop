@@ -3,12 +3,12 @@
   <!-- Animated Header Banner -->
   <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/Synapse_WIDS_animated_banner_stars.gif?raw=true" width="100%" alt="Synapse Club | Official WiDS@ACEEC Chapter" />
 
+  <br/><br/>
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Lab-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Workshop-Active-brightgreen?style=for-the-badge)
 
-  <br/><br/>
 
   # 🐍 PyCore Workshop: 2-Day Data Analytics Intensive
   **Department of Computer Science & Data Science (CSD) | ACE Engineering College**
