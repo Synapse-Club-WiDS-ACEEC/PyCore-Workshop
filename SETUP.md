@@ -11,3 +11,9 @@ Please complete these steps on your laptop prior to Friday's workshop.
 2. Open your terminal or command prompt and run:
    ```bash
    pip install pandas numpy matplotlib seaborn jupyterlab
+
+### 📺 Video Walkthrough (Python & IDLE Installation)
+If you prefer a step-by-step video tutorial on installing Python and opening IDLE, watch this quick guide before Friday:
+
+[![Watch Python Installation Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
