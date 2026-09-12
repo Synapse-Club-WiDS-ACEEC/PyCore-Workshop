@@ -124,6 +124,16 @@ Students work on pre-loaded practice datasets with intentional real-world qualit
   <sub>Organized with ⚡ by <b>Synapse Club — WiDS ACEEC Chapter</b></sub>
 </div>
 
+📁 PyCore-Workshop
+├── 📂 Datasets/                 # Practice Datasets (IPL, Netflix, Spotify)
+├── 📂 Day-1_Foundations/        # Python & Pandas Starter Notebooks
+├── 📂 Day-2_Hackathon_Sprint/   # Challenge Notebooks & Projects
+├── 📂 Submissions/              # Student Hackathon PR Submissions
+├── 📄 CODE_OF_CONDUCT.md        # Chapter Guidelines
+├── 📄 CONTRIBUTING.md          # Team Roster, Roles & Git Workflow
+├── 📄 LICENSE                  # MIT License
+└── 📄 SETUP.md                 # Student Installation & Colab Guide
+
 ### ⚡ Quick-Start Terminal Commands
 
 ```bash
