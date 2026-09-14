@@ -51,5 +51,5 @@ Please complete these steps on your laptop prior to Friday's workshop.
 ### 📺 Video Walkthrough (Python & IDLE Installation)
 If you prefer a step-by-step video tutorial on installing Python and opening IDLE, watch this quick guide before Friday:
 
-[![Watch Python Installation Video](https://www.youtube.com/watch?v=n9FDyNiwSJo)
+[📺 Watch Python & IDLE Installation Video](https://www.youtube.com/watch?v=n9FDyNiwSJo)
 
