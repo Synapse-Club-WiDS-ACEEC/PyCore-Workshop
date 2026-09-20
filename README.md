@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Workshop-Active-brightgreen?style=for-the-badge)
 
 
-  # 🐍 PyCore Workshop: 2-Day Data Analytics Intensive
+  # 🐍 PyCore Workshop: 3-Day Data Analytics Intensive
   **Department of Computer Science & Data Science (CSD) | ACE Engineering College**
 
   <br/>
