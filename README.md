@@ -70,20 +70,18 @@ The **PyCore Workshop** is a fast-paced, 10-hour hands-on bootcamp designed for 
         <li><b>Module 2:</b> Python Basics, Array Operations with <code>NumPy</code></li>
         <li><b>Module 3:</b> Data Cleaning & Handling Missing Values with <code>Pandas</code></li>
         <li><b>Module 4:</b> Data Manipulation, Grouping, Sorting & Filtering</li>
-        <li><b>Module 5:</b> Data Visualization Essentials (<code>Matplotlib</code> & <code>Seaborn</code>)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>📅 DAY 3 (3 Hours)</h3>
       <p><b>Focus: Applied Dataset Sprint & Hands-On-Experience </b></p>
-      <p><i>Led by: Visiting External Faculty Expert</i></p>
+      <p><i>Led by: Mr. Younus Sir (CSD Department, ACEEC)</i></p>
       <hr/>
       <ul>
         <li><b>Phase 1:</b> Challenge Briefing & Problem Statement Allocation</li>
         <li><b>Phase 2:</b> Hands-on Data Cleaning & Formatting Sprint</li>
         <li><b>Phase 3:</b> Exploratory Data Analysis & Aggregate Querying</li>
-        <li><b>Phase 4:</b> Visual Dashboarding & Chart Construction</li>
-        <li><b>Phase 5:</b> Live Code Reviews, Showcase & Mentorship Feedback</li>
+        <li><b>Phase 4:</b> Live Code Reviews, Showcase & Mentorship Feedback</li>
       </ul>
     </td>
   </tr>
